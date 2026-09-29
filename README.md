@@ -339,7 +339,7 @@ What I think made it acquirable:
 1. **A complete loop, not a feature list.** Watch → practice → prove → go real → get paid back. Every piece existed and worked.
 2. **Verified real data.** The real trading leaderboard turned "trust me" into "check the numbers."
 3. **A revenue model with no inventory risk.** Rebates are paid out only after they're collected.
-4. **Quality you could measure.** 168/168 QA tests, and the trust-breaking bugs fixed and verified.
+4. **Quality you could measure.** the trust-breaking bugs fixed and verified.
 5. **Extensible broker architecture.** New brokers plug into the same pipeline.
 
 After the product shipped and sold, I was promoted from Founding Engineer to **Senior Software Developer**, and the same team moved on to build [MarketLens](https://market-lens.io), an AI chart analysis tool for Korean traders.
